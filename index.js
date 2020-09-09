@@ -36,13 +36,12 @@ var originalFlavors = ["Banana Nut Fudge",
 
 Your function should return a boolean TRUE if the length of the array is 31 and FALSE if the length of the array is NOT 31.
 
-To save you from having to count the items above, you can assume that length of originalFlavors is 31. You may also want to test your function by creating and passing an array of a different length, to make sure it returns FALSE if length is not 31. 
+To save you from having to count the items above, you can assume that length of originalFlavors is 31. You may also want to test your 
+function by creating and passing an array of a different length, to make sure it returns FALSE if length is not 31. 
 
 i.e. is31Flavors(originalFlavors) will return TRUE.*/
 
-function is31Flavors(/*code here*/){
-
-    /*code here*/
+function is31Flavors(){
 
 }
 
